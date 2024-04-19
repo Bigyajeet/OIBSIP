@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:url("project.avif");
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: azure;
+    height: 1500px;
+}
+body img{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+
+}
+div{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.one{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+}
+.two
+{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+}
+.three
+{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+}
+.four{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+}
+.five
+{
+    height:180px;
+    width:300px;
+    background-repeat:no-repeat ;
+
+}
+div{
+    margin-left:150px;
+}

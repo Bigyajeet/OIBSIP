@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:url("aaaaaaa.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:aliceblue;
+    margin-top: 40px;
+    font-family: 'Times New Roman';
+    font-size: 1.3em;
+  line-height:auto;
+}
+img{
+  height:210px;
+  width:500px;
+  display:flex;
+  justify-content:center;
+  margin-left: 300px;
+}

@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:url("expp.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:aliceblue;
+}
+img{
+    height:250px;
+    margin-top: 90px;
+    margin-left: 90px;
+}
+li{
+    margin-left: 90px;
+}

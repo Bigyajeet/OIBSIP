@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:url("contact.avif");
+    background-repeat:no-repeat;
+    background-size: cover;
+color:whitesmoke ;
+display:flex;
+justify-content:center;
+margin-top:180px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:1em ;
+
+}
+body input{
+    height:20px;
+    width:350px;
+}
+ .male{
+    margin-left: -160px;
+}
